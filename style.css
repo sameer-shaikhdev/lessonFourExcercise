@@ -7,3 +7,12 @@ textarea {
   margin-bottom: 1rem;
   display: block;
 }
+
+#output,
+#txt-area {
+  border: 1px solid black;
+  height: 10vh;
+  width: 80%;
+  margin: 1rem;
+  padding: 1rem;
+}
